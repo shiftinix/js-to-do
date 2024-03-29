@@ -1,0 +1,16 @@
+
+
+.header {
+    background: linear-gradient(to left, rgb(189, 34, 34), rgb(96, 21, 21));
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+.inputSection {
+    margin: 20px;
+
+}
+
+button {
+    margin: 5px;
+}
